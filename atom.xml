@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Okayu-666.github.io</id>
     <title>Okayu&apos;s blog</title>
-    <updated>2023-01-11T08:12:14.700Z</updated>
+    <updated>2023-01-11T08:13:28.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Okayu-666.github.io"/>
     <link rel="self" href="https://Okayu-666.github.io/atom.xml"/>
@@ -46,15 +46,6 @@
 <p>重点在查漏补缺，多做笔记</p>
 </li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试文章]]></title>
-        <id>https://Okayu-666.github.io/post/ce-shi-wen-zhang/</id>
-        <link href="https://Okayu-666.github.io/post/ce-shi-wen-zhang/">
-        </link>
-        <updated>2023-01-11T07:20:46.000Z</updated>
-        <content type="html"><![CDATA[<p>这是一篇测试文章</p>
 ]]></content>
     </entry>
 </feed>
