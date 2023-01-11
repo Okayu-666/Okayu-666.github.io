@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Okayu-666.github.io</id>
     <title>Okayu&apos;s blog</title>
-    <updated>2023-01-11T07:35:05.167Z</updated>
+    <updated>2023-01-11T08:05:35.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Okayu-666.github.io"/>
     <link rel="self" href="https://Okayu-666.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://Okayu-666.github.io/images/avatar.png</logo>
     <icon>https://Okayu-666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Okayu&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[蓝桥杯准备]]></title>
+        <id>https://Okayu-666.github.io/post/lan-qiao-bei-zhun-bei/</id>
+        <link href="https://Okayu-666.github.io/post/lan-qiao-bei-zhun-bei/">
+        </link>
+        <updated>2023-01-11T08:04:07.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="蓝桥杯备战">蓝桥杯备战</h1>
+<p><u>第一步一定要明确路线</u></p>
+<ol>
+<li>
+<p>熟悉Java语法</p>
+</li>
+<li>
+<p>刷题</p>
+<ul>
+<li>
+<p>最好与熟悉语法同步进行</p>
+</li>
+<li>
+<p>不懂就先看代码！！！！</p>
+</li>
+<li>
+<p>网站</p>
+<p><a href="https://leetcode-cn.com/">leedcode  </a></p>
+<p><a href="https://www.lanqiao.cn/">官网   </a></p>
+<p><a href="http://oj.ecustacm.cn/">淮子哥推荐 oj练习</a>  二次练习用</p>
+<p><a href="https://nanti.jisuanke.com/">计蒜客</a></p>
+<p><a href="https://www.acwing.com/">AcWing</a>  强推</p>
+<p>[dotcppC语言网](<a href="https://www.dotcpp.com/oj/problemset.html">蓝桥杯ACM训练系统 - C语言网 (dotcpp.com)</a>)  刷里面的蓝桥杯题</p>
+</li>
+</ul>
+</li>
+<li>
+<p>重点在查漏补缺，多做笔记</p>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
         <id>https://Okayu-666.github.io/post/ce-shi-wen-zhang/</id>
