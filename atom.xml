@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Okayu-666.github.io</id>
     <title>Okayu&apos;s blog</title>
-    <updated>2023-01-11T09:46:25.013Z</updated>
+    <updated>2023-01-11T15:18:10.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Okayu-666.github.io"/>
     <link rel="self" href="https://Okayu-666.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://Okayu-666.github.io/images/avatar.png</logo>
     <icon>https://Okayu-666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Okayu&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2023年度安排——上半年]]></title>
+        <id>https://Okayu-666.github.io/post/2023-nian-du-an-pai-shang-ban-nian/</id>
+        <link href="https://Okayu-666.github.io/post/2023-nian-du-an-pai-shang-ban-nian/">
+        </link>
+        <updated>2023-01-11T15:17:20.000Z</updated>
+        <content type="html"><![CDATA[<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8956275"><label class="task-list-item-label" for="task-item-8956275"> 完成计算机网络的先行学习</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7276637"><label class="task-list-item-label" for="task-item-7276637"> 完成深入计算机操作系统的先行学习</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2937340"><label class="task-list-item-label" for="task-item-2937340"> 进行蓝桥杯Java组的学习</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4902573"><label class="task-list-item-label" for="task-item-4902573"> 蓝桥杯拿到省一以上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8106530"><label class="task-list-item-label" for="task-item-8106530"> PAT考试达到甲级80分</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1801641"><label class="task-list-item-label" for="task-item-1801641"> 学习制作微信小程序</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4925527"><label class="task-list-item-label" for="task-item-4925527"> 完成PA课程</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6629295"><label class="task-list-item-label" for="task-item-6629295"> 完成CS61A课程</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4740639"><label class="task-list-item-label" for="task-item-4740639"> 互联网+打进省赛</label></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入理解计算机操作系统]]></title>
         <id>https://Okayu-666.github.io/post/shen-ru-li-jie-ji-suan-ji-cao-zuo-xi-tong/</id>
