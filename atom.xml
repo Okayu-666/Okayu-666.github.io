@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Okayu-666.github.io</id>
     <title>Okayu&apos;s blog</title>
-    <updated>2023-02-19T15:44:54.810Z</updated>
+    <updated>2023-02-24T11:41:24.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Okayu-666.github.io"/>
     <link rel="self" href="https://Okayu-666.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://Okayu-666.github.io/images/avatar.png</logo>
     <icon>https://Okayu-666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Okayu&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[VS Code使用指南]]></title>
+        <id>https://Okayu-666.github.io/post/vs-code-shi-yong-zhi-nan/</id>
+        <link href="https://Okayu-666.github.io/post/vs-code-shi-yong-zhi-nan/">
+        </link>
+        <updated>2023-02-24T11:40:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1好用配件">1.好用配件</h1>
+<ol>
+<li>Chinese：中文界面</li>
+<li>Prettier：代码美化</li>
+<li>Wisen-Translate：翻译插件</li>
+<li>Live preview：实时预览html</li>
+<li>Search/Translate Hero：搜索跳转和翻译</li>
+<li>vscoed-icons：美化图标</li>
+</ol>
+<h1 id="2vs-code配置">2.VS Code配置</h1>
+<ol>
+<li>Format On Save：勾选，代码保存后自动格式化</li>
+<li>Format On Paste：勾选，粘贴时自动格式化</li>
+<li>Default Formatter：选择Prettier，默认格式化插件</li>
+<li>Linked Editing：勾选，同时重命名html标签名</li>
+</ol>
+<h1 id="3常用快捷键">3.常用快捷键</h1>
+<ol>
+<li>ctrl+D：选择下一个相同字符</li>
+<li>Alt+鼠标左键：增加光标</li>
+<li>alt+shift+上下键：快速复制内容至上/下行</li>
+<li>crtl+F：查找内容</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[uniapp学习]]></title>
         <id>https://Okayu-666.github.io/post/uniapp-xue-xi/</id>
@@ -73,23 +104,23 @@
         <updated>2023-01-11T15:17:20.000Z</updated>
         <content type="html"><![CDATA[<h2 id="一-学业上">一、学业上</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-802819"><label class="task-list-item-label" for="task-item-802819"> 完成计算机网络的先行学习</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2604979"><label class="task-list-item-label" for="task-item-2604979"> 完成深入计算机操作系统的先行学习</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3679587"><label class="task-list-item-label" for="task-item-3679587"> 进行蓝桥杯Java组的学习</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1004592"><label class="task-list-item-label" for="task-item-1004592"> 蓝桥杯拿到省一以上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-216671"><label class="task-list-item-label" for="task-item-216671"> PAT考试达到甲级80分</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9760945"><label class="task-list-item-label" for="task-item-9760945"> 学习制作微信小程序</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1592154"><label class="task-list-item-label" for="task-item-1592154"> 完成PA课程</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6294074"><label class="task-list-item-label" for="task-item-6294074"> 完成CS61A课程</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6652594"><label class="task-list-item-label" for="task-item-6652594"> 互联网+打进省赛</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1290323"><label class="task-list-item-label" for="task-item-1290323"> 完成计算机网络的先行学习</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8467881"><label class="task-list-item-label" for="task-item-8467881"> 完成深入计算机操作系统的先行学习</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8390861"><label class="task-list-item-label" for="task-item-8390861"> 进行蓝桥杯Java组的学习</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6904208"><label class="task-list-item-label" for="task-item-6904208"> 蓝桥杯拿到省一以上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-962955"><label class="task-list-item-label" for="task-item-962955"> PAT考试达到甲级80分</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-412394"><label class="task-list-item-label" for="task-item-412394"> 学习制作微信小程序</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9420746"><label class="task-list-item-label" for="task-item-9420746"> 完成PA课程</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6219275"><label class="task-list-item-label" for="task-item-6219275"> 完成CS61A课程</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9989183"><label class="task-list-item-label" for="task-item-9989183"> 互联网+打进省赛</label></li>
 </ul>
 <h2 id="二-生活上">二、生活上</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-854293"><label class="task-list-item-label" for="task-item-854293"> 找到初恋女友</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1188431"><label class="task-list-item-label" for="task-item-1188431"> 重新锻炼回我的腹肌</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2107541"><label class="task-list-item-label" for="task-item-2107541"> 看完微信图书书架里所有的免费书籍</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1217005"><label class="task-list-item-label" for="task-item-1217005"> 体测拿到80分以上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7481705"><label class="task-list-item-label" for="task-item-7481705"> 看完10部高分电影</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9434643"><label class="task-list-item-label" for="task-item-9434643"> 找到初恋女友</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1124615"><label class="task-list-item-label" for="task-item-1124615"> 重新锻炼回我的腹肌</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3853054"><label class="task-list-item-label" for="task-item-3853054"> 看完微信图书书架里所有的免费书籍</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7188108"><label class="task-list-item-label" for="task-item-7188108"> 体测拿到80分以上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7051164"><label class="task-list-item-label" for="task-item-7051164"> 看完10部高分电影</label></li>
 </ul>
 ]]></content>
     </entry>
